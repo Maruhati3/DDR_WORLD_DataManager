@@ -66,3 +66,5 @@ def login():
     # session = requests.Session()
 
     driver.quit()
+
+login()
