@@ -1,47 +1,7 @@
-import pickle
-import os
-import requests
 from bs4 import BeautifulSoup
 from flare_rank import flare_rank
-from login import login
+from load_cookie import get_page_with_cookies
 
-# 1. .pklファイルからCookieを読み込む
-def load_cookies(cookie_file):
-    if not os.path.exists(cookie_file):
-        # cookie.pkl が存在しない場合、-1 を返す
-        print("cookie.pkl not exists\n")
-        return -1
-    
-    else: 
-        with open(cookie_file, 'rb') as f:
-            cookies = pickle.load(f)
-        return cookies
-
-# 2. Cookieを使って指定URLにアクセス
-def get_page_with_cookies(url, cookie_file):
-    # requestsにCookieをセット
-
-    # クッキーをロード
-    cookies = load_cookies(cookie_file)
-
-    if cookies == -1:
-        login()
-        cookies = load_cookies(cookie_file)
-
-    session = requests.Session()
-    # session.cookies.update(cookies)
-
-    for cookie in cookies:
-        session.cookies.set(cookie['name'], cookie['value'])
-
-    # URLにGETリクエストを送信
-    response = session.get(url)
-    
-    if response.status_code == 200:
-        return response.text
-    else:
-        print(f"Failed to retrieve the page. Status code: {response.status_code}")
-        return None
 
 # 3. HTMLをパースして特定のIDのタグ内容を取得
 def get_tag_content_by_id(html, tag_id):
