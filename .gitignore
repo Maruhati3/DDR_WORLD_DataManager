@@ -7,3 +7,7 @@
 
 # pythonのキャッシュを無視
 /src/__pycache__/
+
+# status関連の出力ファイルを無視
+/status_flare.csv
+/status_overall.csv
