@@ -9,24 +9,27 @@ from login import login
 def load_cookies(cookie_file):
     if not os.path.exists(cookie_file):
         # cookie.pkl が存在しない場合、-1 を返す
+        print("cookie.pkl not exists\n")
         return -1
     
-    with open(cookie_file, 'rb') as f:
-        cookies = pickle.load(f)
-    return cookies
+    else: 
+        with open(cookie_file, 'rb') as f:
+            cookies = pickle.load(f)
+        return cookies
 
 # 2. Cookieを使って指定URLにアクセス
 def get_page_with_cookies(url, cookie_file):
     # requestsにCookieをセット
-    session = requests.Session()
-    # session.cookies.update(cookies)
-    
+
     # クッキーをロード
     cookies = load_cookies(cookie_file)
 
     if cookies == -1:
         login()
         cookies = load_cookies(cookie_file)
+
+    session = requests.Session()
+    # session.cookies.update(cookies)
 
     for cookie in cookies:
         session.cookies.set(cookie['name'], cookie['value'])
@@ -89,7 +92,7 @@ def get_tag_content_by_classname(html, tag_class):
         return None
 
 # 使用例
-cookie_file = 'cookie.pkl'  # 保存したクッキーのファイル
+cookie_file = './cookie.pkl'  # 保存したクッキーのファイル
 url = 'https://p.eagate.573.jp/game/ddr/ddrworld/playdata/flare_data_single.html'  # アクセスしたいURL
 version_name_id = 'graph_title'
 table_id = 'data_tbl'  # 取得したいタグのID

@@ -67,4 +67,5 @@ def login():
 
     driver.quit()
 
-login()
+if __name__ == "__main__":
+    login()
