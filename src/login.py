@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-from flare_output import flare_to_csv
+import pickle
 
 options = webdriver.ChromeOptions()
 
@@ -54,49 +54,14 @@ except Exception as e:
 finally:
     # 後の処理が終わったらブラウザを閉じる
     # Seleniumからクッキーを取得
+    cookie_file_name = "cookie.pkl"
     cookies = driver.get_cookies()
+    with open(cookie_file_name, 'wb') as cookie_file:
+        # cookie_file.write(driver.get_cookies())
+        pickle.dump(cookies, cookie_file)
     # print("Seleniumで取得したクッキー:", selenium_cookies)
 
 # Requestsのセッションを作成
 # session = requests.Session()
 
 driver.quit()
-
-# Requestsでデータを操作
-target_url = 'https://p.eagate.573.jp/game/ddr/ddrworld/playdata/flare_data_single.html'
-
-# response = session.get(target_url)
-# print("取得したデータ:")
-# print(response.text)
-
-options.add_argument("--headless")
-driver2 = webdriver.Chrome(options=options)
-
-driver2.get(home_url)
-
-# Seleniumから取得したクッキーをRequestsのセッションにセット
-for cookie in cookies:
-    cookie_dict = {
-            'name': cookie['name'],
-            'value': cookie['value']
-        }
-    driver2.add_cookie(cookie_dict)
-
-driver2.get(target_url)
-
-tables = driver2.find_elements(By.ID, "data_tbl")
-titles = driver2.find_elements(By.CLASS_NAME, "graph_title")
-# print(tables.text)
-
-out_file_name = "row_out_flare.txt"
-
-# contents = driver2.page_source
-with open(out_file_name, "w", encoding="utf-8") as out_file:
-    for title, table in zip(titles, tables):
-        out_file.write(title.text+"\n")
-        out_file.write(table.text+"\n")
-        out_file.write("-" * 20+"\n")
-
-driver2.quit()
-
-flare_to_csv(out_file_name)
