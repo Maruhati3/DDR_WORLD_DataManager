@@ -16,7 +16,7 @@ def load_cookies(cookie_file):
         return cookies
 
 # 2. Cookieを使って指定URLにアクセス
-def get_page_with_cookies(url, cookie_file):
+def get_page_with_cookies(cookie_file):
     # requestsにCookieをセット
 
     # クッキーをロード
@@ -32,11 +32,4 @@ def get_page_with_cookies(url, cookie_file):
     for cookie in cookies:
         session.cookies.set(cookie['name'], cookie['value'])
 
-    # URLにGETリクエストを送信
-    response = session.get(url)
-    
-    if response.status_code == 200:
-        return response.text
-    else:
-        print(f"Failed to retrieve the page. Status code: {response.status_code}")
-        return None
+    return session

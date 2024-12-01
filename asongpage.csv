@@ -1,0 +1,400 @@
+SPDP;曲名;難易度;Lv;SCORE;Crank;Crump;Fskill;Frank
+SP;蒼い衝動 ～for EXTREME～;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;蒼い衝動 ～for EXTREME～;basic;Lv;0;NONE;Noplay;0;NONE
+SP;蒼い衝動 ～for EXTREME～;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;蒼い衝動 ～for EXTREME～;expert;Lv;0;NONE;Noplay;0;NONE
+SP;蒼が消えるとき;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;蒼が消えるとき;basic;Lv;0;NONE;Noplay;0;NONE
+SP;蒼が消えるとき;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;蒼が消えるとき;expert;Lv;976040;AA+;GFC;540;1
+SP;朝色の紙飛行機;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;朝色の紙飛行機;basic;Lv;0;NONE;Noplay;0;NONE
+SP;朝色の紙飛行機;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;朝色の紙飛行機;expert;Lv;869030;A+;Clear;0;NONE
+SP;アドレナリン;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;アドレナリン;basic;Lv;0;NONE;Noplay;0;NONE
+SP;アドレナリン;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;アドレナリン;expert;Lv;0;NONE;Noplay;0;NONE
+SP;天ノ弱;beginner;Lv;977760;AA+;GFC;0;NONE
+SP;天ノ弱;basic;Lv;991480;AAA;GFC;0;NONE
+SP;天ノ弱;difficult;Lv;986990;AA+;Clear;640;EX
+SP;天ノ弱;expert;Lv;980040;AA+;GFC;0;NONE
+SP;妖隠し -あやかしかくし-;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;妖隠し -あやかしかくし-;basic;Lv;861520;A+;Clear;0;NONE
+SP;妖隠し -あやかしかくし-;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;妖隠し -あやかしかくし-;expert;Lv;994800;AAA;GFC;885;9
+SP;アユミ☆マジカルショータイム;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;アユミ☆マジカルショータイム;basic;Lv;0;NONE;Noplay;0;NONE
+SP;アユミ☆マジカルショータイム;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;アユミ☆マジカルショータイム;expert;Lv;992370;AAA;GFC;0;NONE
+SP;アリスサイド・キャスリング;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;アリスサイド・キャスリング;basic;Lv;0;NONE;Noplay;0;NONE
+SP;アリスサイド・キャスリング;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;アリスサイド・キャスリング;expert;Lv;993600;AAA;GFC;640;EX
+SP;アルストロメリア (walk with you remix);beginner;Lv;0;NONE;Noplay;0;NONE
+SP;アルストロメリア (walk with you remix);basic;Lv;0;NONE;Noplay;0;NONE
+SP;アルストロメリア (walk with you remix);difficult;Lv;0;NONE;Noplay;0;NONE
+SP;アルストロメリア (walk with you remix);expert;Lv;994190;AAA;GFC;744;EX
+SP;アルストロメリア (walk with you remix);challenge;Lv;994810;AAA;GFC;872;EX
+SP;阿波おどり -Awaodori- やっぱり踊りはやめられない;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;阿波おどり -Awaodori- やっぱり踊りはやめられない;basic;Lv;0;NONE;Noplay;0;NONE
+SP;阿波おどり -Awaodori- やっぱり踊りはやめられない;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;阿波おどり -Awaodori- やっぱり踊りはやめられない;expert;Lv;786940;B+;Clear;0;NONE
+SP;いーあるふぁんくらぶ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;いーあるふぁんくらぶ;basic;Lv;0;NONE;Noplay;0;NONE
+SP;いーあるふぁんくらぶ;difficult;Lv;996570;AAA;GFC;0;NONE
+SP;いーあるふぁんくらぶ;expert;Lv;997280;AAA;GFC;0;NONE
+SP;イーディーエム・ジャンパーズ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;イーディーエム・ジャンパーズ;basic;Lv;0;NONE;Noplay;0;NONE
+SP;イーディーエム・ジャンパーズ;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;イーディーエム・ジャンパーズ;expert;Lv;954440;AA+;Clear;0;NONE
+SP;怒れる大きな白い馬;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;怒れる大きな白い馬;basic;Lv;0;NONE;Noplay;0;NONE
+SP;怒れる大きな白い馬;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;怒れる大きな白い馬;expert;Lv;945750;AA;FC;0;NONE
+SP;一途;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;一途;basic;Lv;0;NONE;Noplay;0;NONE
+SP;一途;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;一途;expert;Lv;954960;AA+;Clear;0;NONE
+SP;鋳鉄の檻;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;鋳鉄の檻;basic;Lv;0;NONE;Noplay;0;NONE
+SP;鋳鉄の檻;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;鋳鉄の檻;expert;Lv;934010;AA;FC;0;NONE
+SP;イノセントバイブル;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;イノセントバイブル;basic;Lv;0;NONE;Noplay;0;NONE
+SP;イノセントバイブル;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;イノセントバイブル;expert;Lv;992300;AAA;GFC;640;EX
+SP;イマココ！この瞬間;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;イマココ！この瞬間;basic;Lv;0;NONE;Noplay;0;NONE
+SP;イマココ！この瞬間;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;イマココ！この瞬間;expert;Lv;993630;AAA;GFC;816;EX
+SP;色は匂へど散りぬるを;beginner;Lv;520780;E;Noplay;0;NONE
+SP;色は匂へど散りぬるを;basic;Lv;0;NONE;Noplay;0;NONE
+SP;色は匂へど散りぬるを;difficult;Lv;988250;AA+;GFC;0;NONE
+SP;色は匂へど散りぬるを;expert;Lv;997120;AAA;GFC;744;EX
+SP;ヴァンパイア;beginner;Lv;999930;AAA;PFC;248;EX
+SP;ヴァンパイア;basic;Lv;0;NONE;Noplay;0;NONE
+SP;ヴァンパイア;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;ヴァンパイア;expert;Lv;995180;AAA;Clear;839;9
+SP;↑↑↓↓←→←→BA;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;↑↑↓↓←→←→BA;basic;Lv;0;NONE;Noplay;0;NONE
+SP;↑↑↓↓←→←→BA;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;↑↑↓↓←→←→BA;expert;Lv;814410;A;Clear;0;NONE
+SP;ウサテイ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;ウサテイ;basic;Lv;994720;AAA;GFC;464;EX
+SP;ウサテイ;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;ウサテイ;expert;Lv;991700;AAA;GFC;885;9
+SP;ウサテイ;challenge;Lv;918630;AA;Clear;673;1
+SP;ウソツキ横丁は雨模様;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;ウソツキ横丁は雨模様;basic;Lv;0;NONE;Noplay;0;NONE
+SP;ウソツキ横丁は雨模様;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;ウソツキ横丁は雨模様;expert;Lv;992620;AAA;GFC;744;EX
+SP;梅雪夜;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;梅雪夜;basic;Lv;0;NONE;Noplay;0;NONE
+SP;梅雪夜;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;梅雪夜;expert;Lv;992370;AAA;GFC;885;9
+SP;エイリアンエイリアン;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;エイリアンエイリアン;basic;Lv;0;NONE;Noplay;0;NONE
+SP;エイリアンエイリアン;difficult;Lv;814080;A;Clear;0;NONE
+SP;エイリアンエイリアン;expert;Lv;955450;AA+;FC;0;NONE
+SP;エキサイティング！！も・ちゃ・ちゃ☆;beginner;Lv;989140;AA+;Clear;284;9
+SP;エキサイティング！！も・ちゃ・ちゃ☆;basic;Lv;0;NONE;Noplay;0;NONE
+SP;エキサイティング！！も・ちゃ・ちゃ☆;difficult;Lv;827480;A;Clear;0;NONE
+SP;エキサイティング！！も・ちゃ・ちゃ☆;expert;Lv;992650;AAA;GFC;872;EX
+SP;エンドルフィン;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;エンドルフィン;basic;Lv;0;NONE;Noplay;0;NONE
+SP;エンドルフィン;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;エンドルフィン;expert;Lv;979440;AA+;Clear;924;9
+SP;おーまい！らぶりー！すうぃーてぃ！だーりん！;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;おーまい！らぶりー！すうぃーてぃ！だーりん！;basic;Lv;0;NONE;Noplay;0;NONE
+SP;おーまい！らぶりー！すうぃーてぃ！だーりん！;difficult;Lv;986740;AA+;GFC;0;NONE
+SP;おーまい！らぶりー！すうぃーてぃ！だーりん！;expert;Lv;994890;AAA;GFC;960;EX
+SP;お米の美味しい炊き方、そしてお米を食べることによるその効果。;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;お米の美味しい炊き方、そしてお米を食べることによるその効果。;basic;Lv;0;NONE;Noplay;0;NONE
+SP;お米の美味しい炊き方、そしてお米を食べることによるその効果。;difficult;Lv;977920;AA+;FC;0;NONE
+SP;お米の美味しい炊き方、そしてお米を食べることによるその効果。;expert;Lv;990280;AAA;GFC;954;9
+SP;御千手メディテーション;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;御千手メディテーション;basic;Lv;0;NONE;Noplay;0;NONE
+SP;御千手メディテーション;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;御千手メディテーション;expert;Lv;925000;AA;Clear;0;NONE
+SP;御伽噺に幕切れを;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;御伽噺に幕切れを;basic;Lv;0;NONE;Noplay;0;NONE
+SP;御伽噺に幕切れを;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;御伽噺に幕切れを;expert;Lv;994990;AAA;GFC;872;EX
+SP;乙女繚乱 舞い咲き誇れ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;乙女繚乱 舞い咲き誇れ;basic;Lv;0;NONE;Noplay;0;NONE
+SP;乙女繚乱 舞い咲き誇れ;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;乙女繚乱 舞い咲き誇れ;expert;Lv;995130;AAA;GFC;872;EX
+SP;踊れ！！バーチャルアニマル！！;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;踊れ！！バーチャルアニマル！！;basic;Lv;0;NONE;Noplay;0;NONE
+SP;踊れ！！バーチャルアニマル！！;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;踊れ！！バーチャルアニマル！！;expert;Lv;995770;AAA;GFC;960;EX
+SP;おねがいダーリン;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;おねがいダーリン;basic;Lv;0;NONE;Noplay;0;NONE
+SP;おねがいダーリン;difficult;Lv;995510;AAA;GFC;0;NONE
+SP;おねがいダーリン;expert;Lv;999460;AAA;PFC;0;NONE
+SP;朧;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;朧;basic;Lv;0;NONE;Noplay;0;NONE
+SP;朧;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;朧;expert;Lv;997480;AAA;GFC;744;EX
+SP;朧;challenge;Lv;996650;AAA;GFC;872;EX
+SP;朧 (dj TAKA Remix);beginner;Lv;0;NONE;Noplay;0;NONE
+SP;朧 (dj TAKA Remix);basic;Lv;0;NONE;Noplay;0;NONE
+SP;朧 (dj TAKA Remix);difficult;Lv;0;NONE;Noplay;0;NONE
+SP;朧 (dj TAKA Remix);expert;Lv;999460;AAA;PFC;0;NONE
+SP;朧 (dj TAKA Remix);challenge;Lv;997970;AAA;GFC;992;EX
+SP;女言葉の消失;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;女言葉の消失;basic;Lv;0;NONE;Noplay;0;NONE
+SP;女言葉の消失;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;女言葉の消失;expert;Lv;847410;A;Clear;0;NONE
+SP;革命;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;革命;basic;Lv;0;NONE;Noplay;0;NONE
+SP;革命;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;革命;expert;Lv;755440;B+;Clear;0;NONE
+SP;革命;challenge;Lv;0;NONE;Noplay;0;NONE
+SP;革命(X-Special);challenge;Lv;973860;AA+;GFC;885;9
+SP;革命パッショネイト;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;革命パッショネイト;basic;Lv;0;NONE;Noplay;0;NONE
+SP;革命パッショネイト;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;革命パッショネイト;expert;Lv;995310;AAA;GFC;872;EX
+SP;カゲロウ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;カゲロウ;basic;Lv;0;NONE;Noplay;0;NONE
+SP;カゲロウ;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;カゲロウ;expert;Lv;0;NONE;Noplay;0;NONE
+SP;彼方のリフレシア;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;彼方のリフレシア;basic;Lv;0;NONE;Noplay;0;NONE
+SP;彼方のリフレシア;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;彼方のリフレシア;expert;Lv;990180;AAA;FC;924;9
+SP;からふるぱすてる;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;からふるぱすてる;basic;Lv;0;NONE;Noplay;0;NONE
+SP;からふるぱすてる;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;からふるぱすてる;expert;Lv;916400;AA;Clear;0;NONE
+SP;カラフルミニッツ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;カラフルミニッツ;basic;Lv;0;NONE;Noplay;0;NONE
+SP;カラフルミニッツ;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;カラフルミニッツ;expert;Lv;0;NONE;Noplay;0;NONE
+SP;患部で止まってすぐ溶ける～狂気の優曇華院;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;患部で止まってすぐ溶ける～狂気の優曇華院;basic;Lv;0;NONE;Noplay;0;NONE
+SP;患部で止まってすぐ溶ける～狂気の優曇華院;difficult;Lv;873340;A+;Clear;0;NONE
+SP;患部で止まってすぐ溶ける～狂気の優曇華院;expert;Lv;992930;AAA;GFC;920;EX
+SP;患部で止まってすぐ溶ける～狂気の優曇華院;challenge;Lv;839760;A;Clear;0;NONE
+SP;キケンな果実;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;キケンな果実;basic;Lv;0;NONE;Noplay;0;NONE
+SP;キケンな果実;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;キケンな果実;expert;Lv;0;NONE;Noplay;0;NONE
+SP;キヤロラ衛星の軌跡;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;キヤロラ衛星の軌跡;basic;Lv;0;NONE;Noplay;0;NONE
+SP;キヤロラ衛星の軌跡;difficult;Lv;955310;AA+;Clear;0;NONE
+SP;キヤロラ衛星の軌跡;expert;Lv;984350;AA+;Life4;657;1
+SP;きゅうくらりん;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;きゅうくらりん;basic;Lv;0;NONE;Noplay;0;NONE
+SP;きゅうくらりん;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;きゅうくらりん;expert;Lv;979790;AA+;GFC;839;9
+SP;きゅん×きゅんばっきゅん☆LOVE;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;きゅん×きゅんばっきゅん☆LOVE;basic;Lv;0;NONE;Noplay;0;NONE
+SP;きゅん×きゅんばっきゅん☆LOVE;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;きゅん×きゅんばっきゅん☆LOVE;expert;Lv;0;NONE;Noplay;0;NONE
+SP;鏡花水月楼 (DDR EDITION);beginner;Lv;0;NONE;Noplay;0;NONE
+SP;鏡花水月楼 (DDR EDITION);basic;Lv;0;NONE;Noplay;0;NONE
+SP;鏡花水月楼 (DDR EDITION);difficult;Lv;0;NONE;Noplay;0;NONE
+SP;鏡花水月楼 (DDR EDITION);expert;Lv;962820;AA+;Life4;0;NONE
+SP;狂水一華;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;狂水一華;basic;Lv;0;NONE;Noplay;0;NONE
+SP;狂水一華;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;狂水一華;expert;Lv;994180;AAA;GFC;960;EX
+SP;共犯ヘヴンズコード;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;共犯ヘヴンズコード;basic;Lv;0;NONE;Noplay;0;NONE
+SP;共犯ヘヴンズコード;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;共犯ヘヴンズコード;expert;Lv;0;NONE;Noplay;0;NONE
+SP;強風オールバック;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;強風オールバック;basic;Lv;0;NONE;Noplay;0;NONE
+SP;強風オールバック;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;強風オールバック;expert;Lv;982500;AA+;GFC;785;9
+SP;極地大衝撃;expert;Lv;852900;E;Noplay;0;NONE
+SP;きらきら☆ユニバース;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;きらきら☆ユニバース;basic;Lv;0;NONE;Noplay;0;NONE
+SP;きらきら☆ユニバース;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;きらきら☆ユニバース;expert;Lv;996100;AAA;GFC;960;EX
+SP;倉野川音頭;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;倉野川音頭;basic;Lv;0;NONE;Noplay;0;NONE
+SP;倉野川音頭;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;倉野川音頭;expert;Lv;994520;AAA;GFC;744;EX
+SP;クリムゾンゲイト;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;クリムゾンゲイト;basic;Lv;0;NONE;Noplay;0;NONE
+SP;クリムゾンゲイト;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;クリムゾンゲイト;expert;Lv;0;NONE;Noplay;0;NONE
+SP;黒髪乱れし修羅となりて～凛 edition～;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;黒髪乱れし修羅となりて～凛 edition～;basic;Lv;949960;AA;Clear;0;NONE
+SP;黒髪乱れし修羅となりて～凛 edition～;difficult;Lv;820040;A;Clear;0;NONE
+SP;黒髪乱れし修羅となりて～凛 edition～;expert;Lv;997050;AAA;GFC;920;EX
+SP;君氏危うくも近うよれ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;君氏危うくも近うよれ;basic;Lv;0;NONE;Noplay;0;NONE
+SP;君氏危うくも近うよれ;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;君氏危うくも近うよれ;expert;Lv;0;NONE;Noplay;0;NONE
+SP;激アツ☆マジヤバ☆チアガール;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;激アツ☆マジヤバ☆チアガール;basic;Lv;0;NONE;Noplay;0;NONE
+SP;激アツ☆マジヤバ☆チアガール;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;激アツ☆マジヤバ☆チアガール;expert;Lv;998320;AAA;GFC;872;EX
+SP;月光蝶;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;月光蝶;basic;Lv;0;NONE;Noplay;0;NONE
+SP;月光蝶;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;月光蝶;expert;Lv;0;NONE;Noplay;0;NONE
+SP;幻想系世界修復少女;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;幻想系世界修復少女;basic;Lv;0;NONE;Noplay;0;NONE
+SP;幻想系世界修復少女;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;幻想系世界修復少女;expert;Lv;93030;E;Noplay;0;NONE
+SP;恋時雨;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;恋時雨;basic;Lv;0;NONE;Noplay;0;NONE
+SP;恋時雨;difficult;Lv;999620;AAA;PFC;536;EX
+SP;恋時雨;expert;Lv;974270;AA+;GFC;0;NONE
+SP;恋する☆宇宙戦争っ!!;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;恋する☆宇宙戦争っ!!;basic;Lv;869290;A+;Clear;0;NONE
+SP;恋する☆宇宙戦争っ!!;difficult;Lv;796140;A-;Clear;0;NONE
+SP;恋する☆宇宙戦争っ!!;expert;Lv;972720;AA+;FC;0;NONE
+SP;恋する☆宇宙戦争っ!!;challenge;Lv;957020;AA+;Clear;673;1
+SP;恋のパズルマジック;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;恋のパズルマジック;basic;Lv;0;NONE;Noplay;0;NONE
+SP;恋のパズルマジック;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;恋のパズルマジック;expert;Lv;0;NONE;Noplay;0;NONE
+SP;恋の氷結おてんば湯けむりチルノ温泉;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;恋の氷結おてんば湯けむりチルノ温泉;basic;Lv;0;NONE;Noplay;0;NONE
+SP;恋の氷結おてんば湯けむりチルノ温泉;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;恋の氷結おてんば湯けむりチルノ温泉;expert;Lv;873440;A+;Clear;0;NONE
+SP;恋はどう？モロ◎波動OK☆方程式！！;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;恋はどう？モロ◎波動OK☆方程式！！;basic;Lv;0;NONE;Noplay;0;NONE
+SP;恋はどう？モロ◎波動OK☆方程式！！;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;恋はどう？モロ◎波動OK☆方程式！！;expert;Lv;945870;AA;Clear;0;NONE
+SP;紅焔;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;紅焔;basic;Lv;0;NONE;Noplay;0;NONE
+SP;紅焔;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;紅焔;expert;Lv;973220;AA+;FC;0;NONE
+SP;紅焔;challenge;Lv;946580;AA;Clear;0;NONE
+SP;ここからよろしく大作戦143;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;ここからよろしく大作戦143;basic;Lv;0;NONE;Noplay;0;NONE
+SP;ここからよろしく大作戦143;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;ここからよろしく大作戦143;expert;Lv;0;NONE;Noplay;0;NONE
+SP;この青空の下で;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;この青空の下で;basic;Lv;0;NONE;Noplay;0;NONE
+SP;この青空の下で;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;この青空の下で;expert;Lv;0;NONE;Noplay;0;NONE
+SP;この子の七つのお祝いに;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;この子の七つのお祝いに;basic;Lv;0;NONE;Noplay;0;NONE
+SP;この子の七つのお祝いに;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;この子の七つのお祝いに;expert;Lv;937940;AA;Clear;0;NONE
+SP;コメット⇒スケイター;expert;Lv;948200;AA;Clear;0;NONE
+SP;混乱少女♥そふらんちゃん!!;difficult;Lv;839320;A;Clear;577;1
+SP;混乱少女♥そふらんちゃん!!;expert;Lv;833150;A;Clear;673;1
+SP;最終鬼畜妹フランドール・Ｓ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;最終鬼畜妹フランドール・Ｓ;basic;Lv;940280;AA;Clear;0;NONE
+SP;最終鬼畜妹フランドール・Ｓ;difficult;Lv;868550;A+;Clear;0;NONE
+SP;最終鬼畜妹フランドール・Ｓ;expert;Lv;902850;AA;Clear;0;NONE
+SP;最小三倍完全数;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;最小三倍完全数;basic;Lv;0;NONE;Noplay;0;NONE
+SP;最小三倍完全数;difficult;Lv;723810;B;Clear;0;NONE
+SP;最小三倍完全数;expert;Lv;0;NONE;Noplay;0;NONE
+SP;最速最高シャッターガール;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;最速最高シャッターガール;basic;Lv;0;NONE;Noplay;0;NONE
+SP;最速最高シャッターガール;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;最速最高シャッターガール;expert;Lv;987800;AA+;GFC;954;9
+SP;最速最高シャッターガール;challenge;Lv;313010;E;Noplay;0;NONE
+SP;サインはB -New Arrange Ver.-;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;サインはB -New Arrange Ver.-;basic;Lv;0;NONE;Noplay;0;NONE
+SP;サインはB -New Arrange Ver.-;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;サインはB -New Arrange Ver.-;expert;Lv;993380;AAA;GFC;785;9
+SP;逆さま♥シンデレラパレード;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;逆さま♥シンデレラパレード;basic;Lv;0;NONE;Noplay;0;NONE
+SP;逆さま♥シンデレラパレード;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;逆さま♥シンデレラパレード;expert;Lv;993810;AAA;GFC;872;EX
+SP;桜;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;桜;basic;Lv;0;NONE;Noplay;0;NONE
+SP;桜;difficult;Lv;840870;A;Clear;0;NONE
+SP;桜;expert;Lv;927330;AA;Clear;0;NONE
+SP;桜;challenge;Lv;828780;A;Clear;0;NONE
+SP;サナ・モレッテ・ネ・エンテ;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;サナ・モレッテ・ネ・エンテ;basic;Lv;0;NONE;Noplay;0;NONE
+SP;サナ・モレッテ・ネ・エンテ;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;サナ・モレッテ・ネ・エンテ;expert;Lv;0;NONE;Noplay;0;NONE
+SP;さよならトリップ ～夏陽 EDM edition～;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;さよならトリップ ～夏陽 EDM edition～;basic;Lv;0;NONE;Noplay;0;NONE
+SP;さよならトリップ ～夏陽 EDM edition～;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;さよならトリップ ～夏陽 EDM edition～;expert;Lv;995730;AAA;GFC;816;EX
+SP;サヨナラ・ヘヴン;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;サヨナラ・ヘヴン;basic;Lv;0;NONE;Noplay;0;NONE
+SP;サヨナラ・ヘヴン;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;サヨナラ・ヘヴン;expert;Lv;997770;AAA;GFC;0;NONE
+SP;残像ニ繋ガレタ追憶ノHIDEAWAY;expert;Lv;998020;AAA;GFC;960;EX
+SP;幸せになれる隠しコマンドがあるらしい;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;幸せになれる隠しコマンドがあるらしい;basic;Lv;0;NONE;Noplay;0;NONE
+SP;幸せになれる隠しコマンドがあるらしい;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;幸せになれる隠しコマンドがあるらしい;expert;Lv;994310;AAA;GFC;872;EX
+SP;至上のラトゥーリア;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;至上のラトゥーリア;basic;Lv;0;NONE;Noplay;0;NONE
+SP;至上のラトゥーリア;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;至上のラトゥーリア;expert;Lv;983240;AA+;GFC;816;EX
+SP;雫;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;雫;basic;Lv;0;NONE;Noplay;0;NONE
+SP;雫;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;雫;expert;Lv;0;NONE;Noplay;0;NONE
+SP;漆黒のスペシャルプリンセスサンデー;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;漆黒のスペシャルプリンセスサンデー;basic;Lv;0;NONE;Noplay;0;NONE
+SP;漆黒のスペシャルプリンセスサンデー;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;漆黒のスペシャルプリンセスサンデー;expert;Lv;993560;AAA;GFC;872;EX
+SP;しゃかりきリレーション;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;しゃかりきリレーション;basic;Lv;0;NONE;Noplay;0;NONE
+SP;しゃかりきリレーション;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;しゃかりきリレーション;expert;Lv;0;NONE;Noplay;0;NONE
+SP;灼熱Beach Side Bunny;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;灼熱Beach Side Bunny;basic;Lv;999660;AAA;PFC;0;NONE
+SP;灼熱Beach Side Bunny;difficult;Lv;995500;AAA;GFC;744;EX
+SP;灼熱Beach Side Bunny;expert;Lv;982400;AA+;FC;924;9
+SP;灼熱Beach Side Bunny;challenge;Lv;836640;A;Clear;0;NONE
+SP;灼熱 Pt.2 Long Train Running;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;灼熱 Pt.2 Long Train Running;basic;Lv;0;NONE;Noplay;0;NONE
+SP;灼熱 Pt.2 Long Train Running;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;灼熱 Pt.2 Long Train Running;expert;Lv;978890;AA+;Clear;657;1
+SP;十二星座の聖域;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;十二星座の聖域;basic;Lv;0;NONE;Noplay;0;NONE
+SP;十二星座の聖域;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;十二星座の聖域;expert;Lv;986270;AA+;GFC;577;1
+SP;粛聖!! ロリ神レクイエム☆;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;粛聖!! ロリ神レクイエム☆;basic;Lv;994080;AAA;GFC;185;NONE
+SP;粛聖!! ロリ神レクイエム☆;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;粛聖!! ロリ神レクイエム☆;expert;Lv;995690;AAA;GFC;920;EX
+SP;粛聖!! ロリ神レクイエム☆;challenge;Lv;989910;AA+;GFC;540;1
+SP;シュレーディンガーの猫;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;シュレーディンガーの猫;basic;Lv;0;NONE;Noplay;0;NONE
+SP;シュレーディンガーの猫;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;シュレーディンガーの猫;expert;Lv;976640;AA+;FC;924;9
+SP;シュレーディンガーの猫;challenge;Lv;785720;B+;Clear;0;NONE
+SP;しゅわスパ大作戦☆;expert;Lv;997420;AAA;GFC;920;EX
+SP;春風ブローインウィンド;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;春風ブローインウィンド;basic;Lv;0;NONE;Noplay;0;NONE
+SP;春風ブローインウィンド;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;春風ブローインウィンド;expert;Lv;826140;A;Clear;0;NONE
+SP;シル・ヴ・プレジデント;beginner;Lv;1000000;AAA;MFC;0;NONE
+SP;シル・ヴ・プレジデント;basic;Lv;999950;AAA;PFC;0;NONE
+SP;シル・ヴ・プレジデント;difficult;Lv;999720;AAA;PFC;0;NONE
+SP;シル・ヴ・プレジデント;expert;Lv;999530;AAA;PFC;0;NONE
+SP;シル・ヴ・プレジデント;challenge;Lv;993580;AAA;FC;609;1
+SP;新蛇姫;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;新蛇姫;basic;Lv;0;NONE;Noplay;0;NONE
+SP;新蛇姫;difficult;Lv;912110;AA;Clear;0;NONE
+SP;新蛇姫;expert;Lv;874240;A+;Clear;673;1
+SP;スイーツはとまらない♪;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;スイーツはとまらない♪;basic;Lv;999890;AAA;PFC;0;NONE
+SP;スイーツはとまらない♪;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;スイーツはとまらない♪;expert;Lv;996770;AAA;GFC;872;EX
+SP;スーパー戦湯ババンバーン;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;スーパー戦湯ババンバーン;basic;Lv;0;NONE;Noplay;0;NONE
+SP;スーパー戦湯ババンバーン;difficult;Lv;957520;AA+;Life4;0;NONE
+SP;スーパー戦湯ババンバーン;expert;Lv;943020;AA;Life4;0;NONE
+SP;スカーレット警察のゲットーパトロール24時;beginner;Lv;0;NONE;Noplay;0;NONE
+SP;スカーレット警察のゲットーパトロール24時;basic;Lv;990290;AAA;GFC;255;NONE
+SP;スカーレット警察のゲットーパトロール24時;difficult;Lv;0;NONE;Noplay;0;NONE
+SP;スカーレット警察のゲットーパトロール24時;expert;Lv;996560;AAA;GFC;960;EX
+SP;スカーレット警察のゲットーパトロール24時;challenge;Lv;865110;A+;Clear;689;1
+SP;ずっとみつめていて (Ryu☆Remix);beginner;Lv;0;NONE;Noplay;0;NONE
+SP;ずっとみつめていて (Ryu☆Remix);basic;Lv;0;NONE;Noplay;0;NONE
+SP;ずっとみつめていて (Ryu☆Remix);difficult;Lv;0;NONE;Noplay;0;NONE
+SP;ずっとみつめていて (Ryu☆Remix);expert;Lv;0;NONE;Noplay;0;NONE
+SP;ずっとみつめていて (Ryu☆Remix);challenge;Lv;904090;AA;Clear;0;NONE
