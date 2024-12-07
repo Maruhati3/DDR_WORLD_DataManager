@@ -18,7 +18,13 @@ flare_skill_dic = [[145,153,162,171,179,188,197,205,214,223,232],
 [650,689,728,767,806,845,884,923,962,1001,1040],
 [665,704,744,784,824,864,904,944,984,1024,1064]]
 
-def flare_rank(Lv, flare_skill):
+def flare_with_rank(Lv, flare_skill):
     for rank, skill in enumerate(flare_skill_dic[Lv - 1]):
         if skill == flare_skill:
             return rank
+        
+def flare_rank(flare_skill):
+    for lv, skills in enumerate(flare_skill_dic):
+        for rank, skill in enumerate(skills):
+            if skill == flare_skill:
+                return lv + 1, rank
