@@ -74,7 +74,8 @@ if __name__ == "__main__":
                     #print(table)
                     if idx == 0:
                         # print("バージョン;楽曲名;難易度;レベル;フレアランク;フレアスキル;プレー日時\n")
-                        out_file.write("バージョン;楽曲名;難易度;レベル;フレアランク;フレアスキル;プレー日時\n")
+                        # out_file.write("バージョン;楽曲名;難易度;レベル;フレアランク;フレアスキル;プレー日時\n")
+                        out_file.write("Version;Title;Difficulty;Level;Flare Rank;Flare Skill;Play Date\n")
                     for i in range(1, int((len(table) - 1) / 5)):
                         idx += 1
                         chart_lv = table[5 * i + 3]

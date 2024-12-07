@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Viewer</title>
+    
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+
+    <!-- DataTables JS -->
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+</head>
+<body>
+
+    <h1>Flare Skill Targets</h1>
+
+    <!-- テーブルの表示部分 -->
+    <table id="csv_table" class="display" width="100%">
+        <thead>
+            <tr>
+                
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        $(document).ready(function() {
+            // APIからデータを取得
+            $.get('http://127.0.0.1:5000/get_data', function(data) {
+                // DataTableのカラムヘッダーを設定
+                console.log(data)
+                if (data.length > 0) {
+                    /*var columns = Object.keys(data[0]).map(function(key) {
+                        return { title: key, data: key };  // DataTable用のカラム設定
+                    });*/
+                    var columns = [
+                        { title: "Version", data: "Version" },
+                        { title: "Title", data: "Title" },
+                        { title: "Difficulty", data: "Difficulty" },
+                        { title: "Level", data: "Level" },
+                        { title: "Flare Rank", data: "Flare Rank" },
+                        { title: "Flare Skill", data: "Flare Skill" },
+                        { title: "Play Date", data: "Play Date" }
+                    ]
+
+                    $('#csv_table').DataTable({
+                        data: data,  // 取得したJSONデータ
+                        columns: columns,  // カラム設定
+                        order: [],
+                        info: false,
+                        displayLength: 90,
+                        lengthChange: false
+                    });
+                }
+            });
+            
+        });
+    </script>
+
+</body>
+</html>
