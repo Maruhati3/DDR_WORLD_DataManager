@@ -24,7 +24,9 @@ def data_asong(session):
     allscore_url='https://p.eagate.573.jp/game/ddr/ddrworld/playdata/music_data_single.html?offset=0&filter=0&filtertype=0&display=flareskill'
     baseallsocre_url1='https://p.eagate.573.jp/game/ddr/ddrworld/playdata/music_data_single.html?offset='
 
-    baseallscore_url3='&filter=0&filtertype=0&display=flareskill'
+    baseallscore_url3=      '&filter=0&filtertype=0&display=score'
+    baseallsocre_url_rival1='https://p.eagate.573.jp/game/ddr/ddrworld/rival/music_data_single.html?offset='
+    baseallscore_url_rival3= '&filter=0&filtertype=0&display=score&rival_id=71393284'
     csvfilename='asongpage.csv'
     with open(csvfilename,'w',encoding="utf-8") as fname:
         offsetindex=0
