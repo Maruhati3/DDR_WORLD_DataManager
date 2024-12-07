@@ -22,3 +22,6 @@ https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html?offset=0&filter=7
     * fetch_flare2.py: requests&Beautifulsoupによる実装  
     `0.20s user 0.04s system 7% cpu 3.410 total`
 
+### 2024/12/07 mixik
+作成したCSVファイルにローカルサーバを通じてブラウザからアクセスするシステムを実装  
+参考にしたサイト: https://agohack.com/datatables-options/
