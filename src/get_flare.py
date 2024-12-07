@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from flare_rank import flare_with_rank
+from flare_rank import flare_rank
 from load_cookie import get_page_with_cookies
 
 def get_tag_content_by_id(html, tag_id):
@@ -80,6 +80,6 @@ if __name__ == "__main__":
                         chart_lv = table[5 * i + 3]
                         lv = chart_lv.split(".")[1]
                         flare_skill = table[5 * i + 4]
-                        rank = flare_with_rank(int(lv), int(flare_skill))
+                        rank = flare_rank(int(lv), int(flare_skill))
                         # print(f"{version[0]};{table[5 * i + 1]};{table[5 * i + 2]};{table[5 * i + 3]};{table[5 * i + 4]};{table[5 * i + 5]}\n")
                         out_file.write(f"{version[0]};{table[5 * i + 1]};{table[5 * i + 2]};{chart_lv};{rank};{flare_skill};{table[5 * i + 5]}\n")
