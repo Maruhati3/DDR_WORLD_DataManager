@@ -1,0 +1,9 @@
+# cookie保存ファイルを無視
+/cookie.pkl
+
+# フレアスキル対象曲に関する出力ファイルを無視
+/row_out_flare.txt
+/flare_output.csv
+
+# pythonのキャッシュを無視
+/src/__pycache__/
