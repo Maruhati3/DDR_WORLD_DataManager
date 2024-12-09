@@ -4,55 +4,40 @@ from load_cookie import get_page_with_cookies
 
 
 def data_song_lv(session):
-    allscore_url='https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html?offset=0&filter=7&filtertype=0&playmode=2'
-    baseallsocre_url1='https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html?offset='
-
-    baseallscore_url3=      '&filter=7&filtertype=0&playmode=2'
-    csvfilename='songlv.csv'
+    allscore_url='https://bemaniwiki.com/?DanceDanceRevolution+WORLD/%C1%B4%B6%CA%C1%ED%A5%CE%A1%BC%A5%C4%BF%F4%A5%EA%A5%B9%A5%C8#ACSN'
+    csvfilename='songnotes.csv'
     with open(csvfilename,'w',encoding="utf-8") as fname:
         offsetindex=0
-        fname.write("曲名;;アーティスト名;;bSP;;BSP;;DSP;;ESP;;CSP;;BDP;;DDP;;EDP;;CDP\n")
-        #初回だけlen(alltr)の値を取得するためにwhileの外で実行
-        index_url=baseallsocre_url1+str(offsetindex)+baseallscore_url3      
+        fname.write("曲名;bSP;BSP;DSP;ESP;CSP;BDP;DDP;EDP;CDP\n")
+        #ページ全体のtd一覧にwhileの外で実行
+        index_url=allscore_url
         print('='*50)
         response = session.get(index_url)
         print("取得したデータ一覧:")
         print(index_url)
         print(response.url)
         soup=BeautifulSoup(response.content,'lxml')
-        alltr=soup.find_all("tr",class_="data")
+        alltr=soup.find_all("tr")
             
-        while len(alltr)!=0:
-            
-            print(len(alltr))
-            for songindex in range(len(alltr)):
-                alltd=alltr[songindex].find_all("td")
+        for trlist in alltr:
+            print(str(len(trlist))+"\n")
+            if len(trlist)>=10:
+                    
+                alltd=trlist.find_all("td")
                 #print(alltd)
-                Songname=alltd[1].text
-                Artistname=alltd[2].text
+                Songname=alltd[0].text
                 print("曲名:",Songname)
-                print("アーティスト名:",Artistname)
-                bSP=alltd[3].text
-                BSP=alltd[4].text
-                DSP=alltd[5].text
-                ESP=alltd[6].text
-                CSP=alltd[7].text
-                BDP=alltd[8].text
-                DDP=alltd[9].text
-                EDP=alltd[10].text
-                CDP=alltd[11].text
-                fname.write(f"{Songname};;{Artistname};;{bSP};;{BSP};;{DSP};;{ESP};;{CSP};;{BDP};;{DDP};;{EDP};;{CDP}\n")
-            offsetindex+=1
-
-            index_url=baseallsocre_url1+str(offsetindex)+baseallscore_url3
-            print('='*50)
-            response = session.get(index_url)
-            print("取得したデータ一覧:")
-            print(index_url)
-            print(response.url)
-            soup=BeautifulSoup(response.content,'lxml')
-            alltr=soup.find_all("tr",class_="data")
-                        
+                bSP=alltd[1].text
+                BSP=alltd[2].text
+                DSP=alltd[3].text
+                ESP=alltd[4].text
+                CSP=alltd[5].text
+                BDP=alltd[6].text
+                DDP=alltd[7].text
+                EDP=alltd[8].text
+                CDP=alltd[9].text
+                fname.write(f"{Songname};{bSP};{BSP};{DSP};{ESP};{CSP};{BDP};{DDP};{EDP};{CDP}\n")
+                       
             
 
 
