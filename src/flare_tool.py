@@ -1,5 +1,6 @@
 import pandas as pd
-
+import sys
+args = sys.argv
 # CSVの読み込み
 flare_data = pd.read_csv('flare_output.csv', delimiter=';')
 print(flare_data)
@@ -25,9 +26,26 @@ for start, end in ranges:
     # 区間ごとのカウントを辞書に保存
     flare_skill_counts[f"{start}"] = counts
 
-
+def under(version):
+    if len(args)==1:
+        return 0
+    elif len(args)>=3 and args[1]==version:
+        return args[2]
+    else:
+        return 0
 # 結果を表示
+allsum=0
+allifsum=0
 for section, counts in flare_skill_counts.items():
     print(f"区間 {section} のフレアスキルカウント:")
+    sum=0
+    #引数が十分にある場合下限機能起動
+        
     for skill, count in counts.items():
         print(f"Skill{skill}: {count}回")
+        sum+=skill*count
+        allsum+=skill*count
+        allifsum+=max(int(under(section)),skill)*count
+        
+print(allsum)
+print(allifsum)

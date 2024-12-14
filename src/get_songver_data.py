@@ -86,9 +86,10 @@ def data_asong(session):
                             Frank=Frank.split("flare_")[1].upper()
                             #print("F-Rank:"+Frank)
                             fname.write(f"SP;{filtertypeindex};{Songname};{Difficulty};Lv;{SCORE};{Crank};{Crump};{Fskill};{Frank}\n")
+                        '''
                         else:
                             print("NoSong")
-
+                        '''
                 
 
 
